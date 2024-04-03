@@ -1,0 +1,15 @@
+#+TITLE: ELM FORM MAKER
+#+AUTHOR: Guh314
+#+DESCRIPTION: A basic form maker in ELM
+
+* How it works.
+    It allows you to make a form by choosing a kind of question and adding it to a final form that will be generated based on your choices by the and.
+    You can visualize it being made at the end of the page.
+
+* What's missig.
+    + CSS Styling.
+    + Better naming convention.
+    + Exporting the form to a different page.
+    + Making the form interactive.
+    + Getting the results of answearing the form.
+    + Exporting the form into PDF.
